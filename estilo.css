@@ -1,0 +1,9 @@
+body{background-color: #7fffd1; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    text-align:justify;}
+h1{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color:rgb(41, 86, 149); font-size:x-large;}
+h2{background-color: pink;}
+h3{background-color: violet;}
+h4{background-color:lightblue}
+.bandera-griega {text-align:center; width: 60%; min-width:250px; height:auto;}
+.galeria {max-width:300px; width:40%; border: 15px solid black; margin: 20px;padding: 15px;}
